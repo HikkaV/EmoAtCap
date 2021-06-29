@@ -1,101 +1,51 @@
 train_perplexity_conv_lstm_transfer_learning,test_perplexity_conv_lstm_transfer_learning,train_loss_conv_lstm_transfer_learning,test_loss_conv_lstm_transfer_learning
-"tf.Tensor(53379.42, shape=(), dtype=float32)","tf.Tensor(2132.992, shape=(), dtype=float32)","tf.Tensor(8.351554, shape=(), dtype=float32)","tf.Tensor(0.85671073, shape=(), dtype=float32)"
-"tf.Tensor(22797.902, shape=(), dtype=float32)","tf.Tensor(2185.8071, shape=(), dtype=float32)","tf.Tensor(7.6860037, shape=(), dtype=float32)","tf.Tensor(0.8566389, shape=(), dtype=float32)"
-"tf.Tensor(15139.684, shape=(), dtype=float32)","tf.Tensor(2133.5532, shape=(), dtype=float32)","tf.Tensor(7.410628, shape=(), dtype=float32)","tf.Tensor(0.85310113, shape=(), dtype=float32)"
-"tf.Tensor(10371.955, shape=(), dtype=float32)","tf.Tensor(1901.4608, shape=(), dtype=float32)","tf.Tensor(7.143506, shape=(), dtype=float32)","tf.Tensor(0.84293735, shape=(), dtype=float32)"
-"tf.Tensor(7205.47, shape=(), dtype=float32)","tf.Tensor(1646.8591, shape=(), dtype=float32)","tf.Tensor(6.8850045, shape=(), dtype=float32)","tf.Tensor(0.8304618, shape=(), dtype=float32)"
-"tf.Tensor(5088.0674, shape=(), dtype=float32)","tf.Tensor(1464.0717, shape=(), dtype=float32)","tf.Tensor(6.6404905, shape=(), dtype=float32)","tf.Tensor(0.8200706, shape=(), dtype=float32)"
-"tf.Tensor(3666.1377, shape=(), dtype=float32)","tf.Tensor(1339.5759, shape=(), dtype=float32)","tf.Tensor(6.4119825, shape=(), dtype=float32)","tf.Tensor(0.8121666, shape=(), dtype=float32)"
-"tf.Tensor(2684.9702, shape=(), dtype=float32)","tf.Tensor(1258.5371, shape=(), dtype=float32)","tf.Tensor(6.1957936, shape=(), dtype=float32)","tf.Tensor(0.8064777, shape=(), dtype=float32)"
-"tf.Tensor(1988.2883, shape=(), dtype=float32)","tf.Tensor(1194.4299, shape=(), dtype=float32)","tf.Tensor(5.9868636, shape=(), dtype=float32)","tf.Tensor(0.8017394, shape=(), dtype=float32)"
-"tf.Tensor(1488.4542, shape=(), dtype=float32)","tf.Tensor(1172.6239, shape=(), dtype=float32)","tf.Tensor(5.7846837, shape=(), dtype=float32)","tf.Tensor(0.7995649, shape=(), dtype=float32)"
-"tf.Tensor(1112.6361, shape=(), dtype=float32)","tf.Tensor(1142.7513, shape=(), dtype=float32)","tf.Tensor(5.583512, shape=(), dtype=float32)","tf.Tensor(0.79683745, shape=(), dtype=float32)"
-"tf.Tensor(842.2627, shape=(), dtype=float32)","tf.Tensor(1175.9518, shape=(), dtype=float32)","tf.Tensor(5.3887744, shape=(), dtype=float32)","tf.Tensor(0.79850686, shape=(), dtype=float32)"
-"tf.Tensor(651.9805, shape=(), dtype=float32)","tf.Tensor(1062.6823, shape=(), dtype=float32)","tf.Tensor(5.209487, shape=(), dtype=float32)","tf.Tensor(0.7908788, shape=(), dtype=float32)"
-"tf.Tensor(506.30075, shape=(), dtype=float32)","tf.Tensor(1171.0743, shape=(), dtype=float32)","tf.Tensor(5.0287743, shape=(), dtype=float32)","tf.Tensor(0.7976686, shape=(), dtype=float32)"
-"tf.Tensor(396.15997, shape=(), dtype=float32)","tf.Tensor(1096.1481, shape=(), dtype=float32)","tf.Tensor(4.852143, shape=(), dtype=float32)","tf.Tensor(0.79231787, shape=(), dtype=float32)"
-"tf.Tensor(314.19186, shape=(), dtype=float32)","tf.Tensor(1132.3268, shape=(), dtype=float32)","tf.Tensor(4.6919985, shape=(), dtype=float32)","tf.Tensor(0.7946886, shape=(), dtype=float32)"
-"tf.Tensor(243.1617, shape=(), dtype=float32)","tf.Tensor(1206.2642, shape=(), dtype=float32)","tf.Tensor(4.500569, shape=(), dtype=float32)","tf.Tensor(0.79940975, shape=(), dtype=float32)"
-"tf.Tensor(188.6052, shape=(), dtype=float32)","tf.Tensor(1217.3605, shape=(), dtype=float32)","tf.Tensor(4.314794, shape=(), dtype=float32)","tf.Tensor(0.799658, shape=(), dtype=float32)"
-"tf.Tensor(147.51224, shape=(), dtype=float32)","tf.Tensor(1216.7494, shape=(), dtype=float32)","tf.Tensor(4.1341834, shape=(), dtype=float32)","tf.Tensor(0.79931945, shape=(), dtype=float32)"
-"tf.Tensor(116.61006, shape=(), dtype=float32)","tf.Tensor(1217.7285, shape=(), dtype=float32)","tf.Tensor(3.9603925, shape=(), dtype=float32)","tf.Tensor(0.79915214, shape=(), dtype=float32)"
-"tf.Tensor(93.04263, shape=(), dtype=float32)","tf.Tensor(1174.8341, shape=(), dtype=float32)","tf.Tensor(3.7927604, shape=(), dtype=float32)","tf.Tensor(0.79593825, shape=(), dtype=float32)"
-"tf.Tensor(75.85651, shape=(), dtype=float32)","tf.Tensor(1230.569, shape=(), dtype=float32)","tf.Tensor(3.636539, shape=(), dtype=float32)","tf.Tensor(0.8005944, shape=(), dtype=float32)"
-"tf.Tensor(61.611713, shape=(), dtype=float32)","tf.Tensor(1048.9917, shape=(), dtype=float32)","tf.Tensor(3.4784625, shape=(), dtype=float32)","tf.Tensor(0.78705597, shape=(), dtype=float32)"
-"tf.Tensor(50.8441, shape=(), dtype=float32)","tf.Tensor(1215.4783, shape=(), dtype=float32)","tf.Tensor(3.3343801, shape=(), dtype=float32)","tf.Tensor(0.7979199, shape=(), dtype=float32)"
-"tf.Tensor(41.467052, shape=(), dtype=float32)","tf.Tensor(1308.5426, shape=(), dtype=float32)","tf.Tensor(3.1769302, shape=(), dtype=float32)","tf.Tensor(0.8034637, shape=(), dtype=float32)"
-"tf.Tensor(34.356007, shape=(), dtype=float32)","tf.Tensor(1229.2539, shape=(), dtype=float32)","tf.Tensor(3.0322316, shape=(), dtype=float32)","tf.Tensor(0.7986521, shape=(), dtype=float32)"
-"tf.Tensor(29.25756, shape=(), dtype=float32)","tf.Tensor(1181.1509, shape=(), dtype=float32)","tf.Tensor(2.907117, shape=(), dtype=float32)","tf.Tensor(0.79666895, shape=(), dtype=float32)"
-"tf.Tensor(24.427988, shape=(), dtype=float32)","tf.Tensor(1187.2344, shape=(), dtype=float32)","tf.Tensor(2.7659187, shape=(), dtype=float32)","tf.Tensor(0.79613894, shape=(), dtype=float32)"
-"tf.Tensor(21.082283, shape=(), dtype=float32)","tf.Tensor(1280.1681, shape=(), dtype=float32)","tf.Tensor(2.6512134, shape=(), dtype=float32)","tf.Tensor(0.8026552, shape=(), dtype=float32)"
-"tf.Tensor(18.038242, shape=(), dtype=float32)","tf.Tensor(1248.4674, shape=(), dtype=float32)","tf.Tensor(2.525852, shape=(), dtype=float32)","tf.Tensor(0.8007513, shape=(), dtype=float32)"
-"tf.Tensor(15.538319, shape=(), dtype=float32)","tf.Tensor(1191.0322, shape=(), dtype=float32)","tf.Tensor(2.4063911, shape=(), dtype=float32)","tf.Tensor(0.7970216, shape=(), dtype=float32)"
-"tf.Tensor(13.639416, shape=(), dtype=float32)","tf.Tensor(1315.6388, shape=(), dtype=float32)","tf.Tensor(2.3016448, shape=(), dtype=float32)","tf.Tensor(0.80591637, shape=(), dtype=float32)"
-"tf.Tensor(11.956984, shape=(), dtype=float32)","tf.Tensor(1273.7491, shape=(), dtype=float32)","tf.Tensor(2.1964507, shape=(), dtype=float32)","tf.Tensor(0.80345345, shape=(), dtype=float32)"
-"tf.Tensor(10.518524, shape=(), dtype=float32)","tf.Tensor(1226.5588, shape=(), dtype=float32)","tf.Tensor(2.0931048, shape=(), dtype=float32)","tf.Tensor(0.8003392, shape=(), dtype=float32)"
-"tf.Tensor(9.379162, shape=(), dtype=float32)","tf.Tensor(1268.2936, shape=(), dtype=float32)","tf.Tensor(2.0002794, shape=(), dtype=float32)","tf.Tensor(0.80246717, shape=(), dtype=float32)"
-"tf.Tensor(8.331233, shape=(), dtype=float32)","tf.Tensor(1323.7511, shape=(), dtype=float32)","tf.Tensor(1.9034213, shape=(), dtype=float32)","tf.Tensor(0.80582523, shape=(), dtype=float32)"
-"tf.Tensor(7.530038, shape=(), dtype=float32)","tf.Tensor(1446.9838, shape=(), dtype=float32)","tf.Tensor(1.8216561, shape=(), dtype=float32)","tf.Tensor(0.812693, shape=(), dtype=float32)"
-"tf.Tensor(6.8396378, shape=(), dtype=float32)","tf.Tensor(1597.0327, shape=(), dtype=float32)","tf.Tensor(1.7430942, shape=(), dtype=float32)","tf.Tensor(0.8196823, shape=(), dtype=float32)"
-"tf.Tensor(6.227272, shape=(), dtype=float32)","tf.Tensor(1662.217, shape=(), dtype=float32)","tf.Tensor(1.6666853, shape=(), dtype=float32)","tf.Tensor(0.82226104, shape=(), dtype=float32)"
-"tf.Tensor(5.6853604, shape=(), dtype=float32)","tf.Tensor(1691.2175, shape=(), dtype=float32)","tf.Tensor(1.5920918, shape=(), dtype=float32)","tf.Tensor(0.82422984, shape=(), dtype=float32)"
-"tf.Tensor(5.183073, shape=(), dtype=float32)","tf.Tensor(1751.6122, shape=(), dtype=float32)","tf.Tensor(1.516137, shape=(), dtype=float32)","tf.Tensor(0.82661384, shape=(), dtype=float32)"
-"tf.Tensor(4.8047934, shape=(), dtype=float32)","tf.Tensor(1822.6896, shape=(), dtype=float32)","tf.Tensor(1.453972, shape=(), dtype=float32)","tf.Tensor(0.8300852, shape=(), dtype=float32)"
-"tf.Tensor(4.453356, shape=(), dtype=float32)","tf.Tensor(1812.3582, shape=(), dtype=float32)","tf.Tensor(1.391265, shape=(), dtype=float32)","tf.Tensor(0.83019423, shape=(), dtype=float32)"
-"tf.Tensor(4.1273475, shape=(), dtype=float32)","tf.Tensor(1897.1626, shape=(), dtype=float32)","tf.Tensor(1.3283527, shape=(), dtype=float32)","tf.Tensor(0.83493763, shape=(), dtype=float32)"
-"tf.Tensor(3.826617, shape=(), dtype=float32)","tf.Tensor(1976.9391, shape=(), dtype=float32)","tf.Tensor(1.2659323, shape=(), dtype=float32)","tf.Tensor(0.83710784, shape=(), dtype=float32)"
-"tf.Tensor(3.574961, shape=(), dtype=float32)","tf.Tensor(2084.3645, shape=(), dtype=float32)","tf.Tensor(1.209336, shape=(), dtype=float32)","tf.Tensor(0.84181315, shape=(), dtype=float32)"
-"tf.Tensor(3.373066, shape=(), dtype=float32)","tf.Tensor(2130.7217, shape=(), dtype=float32)","tf.Tensor(1.1614712, shape=(), dtype=float32)","tf.Tensor(0.8438772, shape=(), dtype=float32)"
-"tf.Tensor(3.1845446, shape=(), dtype=float32)","tf.Tensor(2123.8206, shape=(), dtype=float32)","tf.Tensor(1.1135956, shape=(), dtype=float32)","tf.Tensor(0.84292644, shape=(), dtype=float32)"
-"tf.Tensor(2.9976537, shape=(), dtype=float32)","tf.Tensor(2073.6255, shape=(), dtype=float32)","tf.Tensor(1.0633199, shape=(), dtype=float32)","tf.Tensor(0.84238845, shape=(), dtype=float32)"
-"tf.Tensor(2.8305235, shape=(), dtype=float32)","tf.Tensor(2098.396, shape=(), dtype=float32)","tf.Tensor(1.0156419, shape=(), dtype=float32)","tf.Tensor(0.8441059, shape=(), dtype=float32)"
-"tf.Tensor(2.6940734, shape=(), dtype=float32)","tf.Tensor(2120.78, shape=(), dtype=float32)","tf.Tensor(0.9745413, shape=(), dtype=float32)","tf.Tensor(0.8463297, shape=(), dtype=float32)"
-"tf.Tensor(2.5743904, shape=(), dtype=float32)","tf.Tensor(2140.6191, shape=(), dtype=float32)","tf.Tensor(0.9366399, shape=(), dtype=float32)","tf.Tensor(0.8469703, shape=(), dtype=float32)"
-"tf.Tensor(2.446036, shape=(), dtype=float32)","tf.Tensor(2153.6775, shape=(), dtype=float32)","tf.Tensor(0.8940505, shape=(), dtype=float32)","tf.Tensor(0.8440641, shape=(), dtype=float32)"
-"tf.Tensor(2.33691, shape=(), dtype=float32)","tf.Tensor(2204.729, shape=(), dtype=float32)","tf.Tensor(0.85585225, shape=(), dtype=float32)","tf.Tensor(0.84617317, shape=(), dtype=float32)"
-"tf.Tensor(2.231422, shape=(), dtype=float32)","tf.Tensor(2375.7861, shape=(), dtype=float32)","tf.Tensor(0.8173288, shape=(), dtype=float32)","tf.Tensor(0.8525005, shape=(), dtype=float32)"
-"tf.Tensor(2.1410034, shape=(), dtype=float32)","tf.Tensor(2464.357, shape=(), dtype=float32)","tf.Tensor(0.7825798, shape=(), dtype=float32)","tf.Tensor(0.8556808, shape=(), dtype=float32)"
-"tf.Tensor(2.0669327, shape=(), dtype=float32)","tf.Tensor(2468.296, shape=(), dtype=float32)","tf.Tensor(0.7531185, shape=(), dtype=float32)","tf.Tensor(0.8567059, shape=(), dtype=float32)"
-"tf.Tensor(1.9865628, shape=(), dtype=float32)","tf.Tensor(2401.421, shape=(), dtype=float32)","tf.Tensor(0.7198793, shape=(), dtype=float32)","tf.Tensor(0.85319513, shape=(), dtype=float32)"
-"tf.Tensor(1.9085817, shape=(), dtype=float32)","tf.Tensor(2691.7498, shape=(), dtype=float32)","tf.Tensor(0.6863832, shape=(), dtype=float32)","tf.Tensor(0.8619148, shape=(), dtype=float32)"
-"tf.Tensor(1.840495, shape=(), dtype=float32)","tf.Tensor(2995.4824, shape=(), dtype=float32)","tf.Tensor(0.65605056, shape=(), dtype=float32)","tf.Tensor(0.8714386, shape=(), dtype=float32)"
-"tf.Tensor(1.7743039, shape=(), dtype=float32)","tf.Tensor(3096.8767, shape=(), dtype=float32)","tf.Tensor(0.62528646, shape=(), dtype=float32)","tf.Tensor(0.87450546, shape=(), dtype=float32)"
-"tf.Tensor(1.7247347, shape=(), dtype=float32)","tf.Tensor(3034.449, shape=(), dtype=float32)","tf.Tensor(0.6015537, shape=(), dtype=float32)","tf.Tensor(0.8724406, shape=(), dtype=float32)"
-"tf.Tensor(1.6909202, shape=(), dtype=float32)","tf.Tensor(2953.6199, shape=(), dtype=float32)","tf.Tensor(0.5850242, shape=(), dtype=float32)","tf.Tensor(0.87001354, shape=(), dtype=float32)"
-"tf.Tensor(1.6358471, shape=(), dtype=float32)","tf.Tensor(3090.7556, shape=(), dtype=float32)","tf.Tensor(0.557184, shape=(), dtype=float32)","tf.Tensor(0.8734952, shape=(), dtype=float32)"
-"tf.Tensor(1.5902367, shape=(), dtype=float32)","tf.Tensor(3371.9897, shape=(), dtype=float32)","tf.Tensor(0.53344107, shape=(), dtype=float32)","tf.Tensor(0.88181317, shape=(), dtype=float32)"
-"tf.Tensor(1.5444347, shape=(), dtype=float32)","tf.Tensor(3361.989, shape=(), dtype=float32)","tf.Tensor(0.50884986, shape=(), dtype=float32)","tf.Tensor(0.8817505, shape=(), dtype=float32)"
-"tf.Tensor(1.5135347, shape=(), dtype=float32)","tf.Tensor(3563.2102, shape=(), dtype=float32)","tf.Tensor(0.49189922, shape=(), dtype=float32)","tf.Tensor(0.887876, shape=(), dtype=float32)"
-"tf.Tensor(1.4803337, shape=(), dtype=float32)","tf.Tensor(4071.7905, shape=(), dtype=float32)","tf.Tensor(0.4732788, shape=(), dtype=float32)","tf.Tensor(0.8990743, shape=(), dtype=float32)"
-"tf.Tensor(1.444818, shape=(), dtype=float32)","tf.Tensor(3884.5667, shape=(), dtype=float32)","tf.Tensor(0.4529048, shape=(), dtype=float32)","tf.Tensor(0.89631397, shape=(), dtype=float32)"
-"tf.Tensor(1.413554, shape=(), dtype=float32)","tf.Tensor(3971.8438, shape=(), dtype=float32)","tf.Tensor(0.43451053, shape=(), dtype=float32)","tf.Tensor(0.8975064, shape=(), dtype=float32)"
-"tf.Tensor(1.3819659, shape=(), dtype=float32)","tf.Tensor(4105.2295, shape=(), dtype=float32)","tf.Tensor(0.415513, shape=(), dtype=float32)","tf.Tensor(0.8979128, shape=(), dtype=float32)"
-"tf.Tensor(1.3579322, shape=(), dtype=float32)","tf.Tensor(4584.578, shape=(), dtype=float32)","tf.Tensor(0.40074506, shape=(), dtype=float32)","tf.Tensor(0.907957, shape=(), dtype=float32)"
-"tf.Tensor(1.3309793, shape=(), dtype=float32)","tf.Tensor(4913.7397, shape=(), dtype=float32)","tf.Tensor(0.38390172, shape=(), dtype=float32)","tf.Tensor(0.9147568, shape=(), dtype=float32)"
-"tf.Tensor(1.3065884, shape=(), dtype=float32)","tf.Tensor(4649.397, shape=(), dtype=float32)","tf.Tensor(0.36830866, shape=(), dtype=float32)","tf.Tensor(0.91081184, shape=(), dtype=float32)"
-"tf.Tensor(1.2861464, shape=(), dtype=float32)","tf.Tensor(4515.193, shape=(), dtype=float32)","tf.Tensor(0.3550414, shape=(), dtype=float32)","tf.Tensor(0.90752804, shape=(), dtype=float32)"
-"tf.Tensor(1.2671815, shape=(), dtype=float32)","tf.Tensor(4351.938, shape=(), dtype=float32)","tf.Tensor(0.3425482, shape=(), dtype=float32)","tf.Tensor(0.90320945, shape=(), dtype=float32)"
-"tf.Tensor(1.250773, shape=(), dtype=float32)","tf.Tensor(4063.6633, shape=(), dtype=float32)","tf.Tensor(0.33161926, shape=(), dtype=float32)","tf.Tensor(0.8978812, shape=(), dtype=float32)"
-"tf.Tensor(1.2373669, shape=(), dtype=float32)","tf.Tensor(4648.214, shape=(), dtype=float32)","tf.Tensor(0.32260963, shape=(), dtype=float32)","tf.Tensor(0.909411, shape=(), dtype=float32)"
-"tf.Tensor(1.2243159, shape=(), dtype=float32)","tf.Tensor(5756.1343, shape=(), dtype=float32)","tf.Tensor(0.31364667, shape=(), dtype=float32)","tf.Tensor(0.92543113, shape=(), dtype=float32)"
-"tf.Tensor(1.2087874, shape=(), dtype=float32)","tf.Tensor(5142.7534, shape=(), dtype=float32)","tf.Tensor(0.3029562, shape=(), dtype=float32)","tf.Tensor(0.9163008, shape=(), dtype=float32)"
-"tf.Tensor(1.1902176, shape=(), dtype=float32)","tf.Tensor(5472.639, shape=(), dtype=float32)","tf.Tensor(0.28986394, shape=(), dtype=float32)","tf.Tensor(0.9220045, shape=(), dtype=float32)"
-"tf.Tensor(1.1729488, shape=(), dtype=float32)","tf.Tensor(6202.606, shape=(), dtype=float32)","tf.Tensor(0.27758396, shape=(), dtype=float32)","tf.Tensor(0.9303774, shape=(), dtype=float32)"
-"tf.Tensor(1.1605124, shape=(), dtype=float32)","tf.Tensor(6713.077, shape=(), dtype=float32)","tf.Tensor(0.26862925, shape=(), dtype=float32)","tf.Tensor(0.9385493, shape=(), dtype=float32)"
-"tf.Tensor(1.152065, shape=(), dtype=float32)","tf.Tensor(6654.3633, shape=(), dtype=float32)","tf.Tensor(0.2624786, shape=(), dtype=float32)","tf.Tensor(0.9376711, shape=(), dtype=float32)"
-"tf.Tensor(1.1404799, shape=(), dtype=float32)","tf.Tensor(6339.3643, shape=(), dtype=float32)","tf.Tensor(0.2539759, shape=(), dtype=float32)","tf.Tensor(0.9326838, shape=(), dtype=float32)"
-"tf.Tensor(1.1296501, shape=(), dtype=float32)","tf.Tensor(6954.187, shape=(), dtype=float32)","tf.Tensor(0.24592356, shape=(), dtype=float32)","tf.Tensor(0.94293797, shape=(), dtype=float32)"
-"tf.Tensor(1.1171702, shape=(), dtype=float32)","tf.Tensor(7620.3267, shape=(), dtype=float32)","tf.Tensor(0.23656885, shape=(), dtype=float32)","tf.Tensor(0.9503298, shape=(), dtype=float32)"
-"tf.Tensor(1.1074018, shape=(), dtype=float32)","tf.Tensor(8289.756, shape=(), dtype=float32)","tf.Tensor(0.22916844, shape=(), dtype=float32)","tf.Tensor(0.9552788, shape=(), dtype=float32)"
-"tf.Tensor(1.099196, shape=(), dtype=float32)","tf.Tensor(7547.2188, shape=(), dtype=float32)","tf.Tensor(0.22290087, shape=(), dtype=float32)","tf.Tensor(0.9466641, shape=(), dtype=float32)"
-"tf.Tensor(1.09097, shape=(), dtype=float32)","tf.Tensor(7121.2944, shape=(), dtype=float32)","tf.Tensor(0.21658419, shape=(), dtype=float32)","tf.Tensor(0.938413, shape=(), dtype=float32)"
-"tf.Tensor(1.080353, shape=(), dtype=float32)","tf.Tensor(7047.3027, shape=(), dtype=float32)","tf.Tensor(0.20833355, shape=(), dtype=float32)","tf.Tensor(0.9408196, shape=(), dtype=float32)"
-"tf.Tensor(1.0692123, shape=(), dtype=float32)","tf.Tensor(6801.685, shape=(), dtype=float32)","tf.Tensor(0.19962697, shape=(), dtype=float32)","tf.Tensor(0.94002813, shape=(), dtype=float32)"
-"tf.Tensor(1.0574936, shape=(), dtype=float32)","tf.Tensor(7938.343, shape=(), dtype=float32)","tf.Tensor(0.19032708, shape=(), dtype=float32)","tf.Tensor(0.95314044, shape=(), dtype=float32)"
-"tf.Tensor(1.0471104, shape=(), dtype=float32)","tf.Tensor(9192.815, shape=(), dtype=float32)","tf.Tensor(0.18203607, shape=(), dtype=float32)","tf.Tensor(0.9677931, shape=(), dtype=float32)"
-"tf.Tensor(1.0405382, shape=(), dtype=float32)","tf.Tensor(8605.052, shape=(), dtype=float32)","tf.Tensor(0.17674385, shape=(), dtype=float32)","tf.Tensor(0.96452475, shape=(), dtype=float32)"
-"tf.Tensor(1.0344727, shape=(), dtype=float32)","tf.Tensor(8756.4795, shape=(), dtype=float32)","tf.Tensor(0.1718103, shape=(), dtype=float32)","tf.Tensor(0.96471745, shape=(), dtype=float32)"
-"tf.Tensor(1.0287292, shape=(), dtype=float32)","tf.Tensor(11529.401, shape=(), dtype=float32)","tf.Tensor(0.16710961, shape=(), dtype=float32)","tf.Tensor(0.98591185, shape=(), dtype=float32)"
-"tf.Tensor(1.021313, shape=(), dtype=float32)","tf.Tensor(11373.326, shape=(), dtype=float32)","tf.Tensor(0.16102386, shape=(), dtype=float32)","tf.Tensor(0.98306733, shape=(), dtype=float32)"
-"tf.Tensor(1.0145668, shape=(), dtype=float32)","tf.Tensor(11633.494, shape=(), dtype=float32)","tf.Tensor(0.15543878, shape=(), dtype=float32)","tf.Tensor(0.98195314, shape=(), dtype=float32)"
-"tf.Tensor(1.0077599, shape=(), dtype=float32)","tf.Tensor(13080.203, shape=(), dtype=float32)","tf.Tensor(0.14975819, shape=(), dtype=float32)","tf.Tensor(0.9937136, shape=(), dtype=float32)"
+37735.921875,19581.099609375,10.26700210571289,9.733646392822266
+16952.865234375,10784.1484375,9.529335021972656,9.147725105285645
+9790.7021484375,6833.25341796875,9.010578155517578,8.698413848876953
+6291.97509765625,4662.09716796875,8.588410377502441,8.321731567382812
+4337.85595703125,3365.595458984375,8.231669425964355,8.000935554504395
+3159.7265625,2542.87060546875,7.926275730133057,7.725081920623779
+2400.44482421875,1980.1651611328125,7.660521507263184,7.479528903961182
+1885.17333984375,1588.3677978515625,7.426215171813965,7.2631072998046875
+1521.2320556640625,1302.1307373046875,7.217815399169922,7.0682830810546875
+1252.082275390625,1088.1212158203125,7.028415679931641,6.892065525054932
+1049.923828125,924.40087890625,6.856729030609131,6.732062816619873
+894.4302368164062,796.1650390625,6.7003021240234375,6.585566997528076
+772.490478515625,694.5944213867188,6.557163238525391,6.451606750488281
+675.0927124023438,612.7389526367188,6.425290584564209,6.3284759521484375
+596.3037719726562,545.9242553710938,6.303703784942627,6.21508264541626
+531.707763671875,490.3722839355469,6.191214561462402,6.1096673011779785
+478.0048828125,444.203125,6.086681842803955,6.012482166290283
+432.96002197265625,404.943603515625,5.989336967468262,5.921478271484375
+394.73138427734375,371.45263671875,5.898373603820801,5.836542129516602
+361.89105224609375,342.7570495605469,5.812743186950684,5.757272243499756
+333.5841369628906,317.97235107421875,5.73237943649292,5.683229923248291
+308.8499450683594,296.12652587890625,5.656369209289551,5.613037586212158
+287.2115783691406,277.0689392089844,5.584640979766846,5.547260284423828
+268.14801025390625,260.2635192871094,5.5166802406311035,5.485363483428955
+251.2266387939453,245.25132751464844,5.452191352844238,5.426734447479248
+236.1705322265625,231.9373779296875,5.391046524047852,5.371517658233643
+222.67066955566406,219.91908264160156,5.332779407501221,5.318881511688232
+210.55320739746094,209.11053466796875,5.277338027954102,5.269052982330322
+199.59698486328125,199.3742218017578,5.224449634552002,5.221811294555664
+189.61936950683594,190.4967041015625,5.173679828643799,5.176730632781982
+180.51959228515625,182.39784240722656,5.124972343444824,5.1337056159973145
+172.1813201904297,174.99159240722656,5.078153610229492,5.092578411102295
+164.5245819091797,168.09893798828125,5.033109188079834,5.052842140197754
+157.44850158691406,161.77699279785156,4.989599227905273,5.0149102210998535
+150.91900634765625,155.92620849609375,4.947682857513428,4.978358745574951
+144.8584747314453,150.54183959960938,4.907108783721924,4.943516254425049
+139.21847534179688,145.4840545654297,4.867832660675049,4.909678936004639
+133.97802734375,140.85638427734375,4.829861164093018,4.877580165863037
+129.07191467285156,136.5341033935547,4.792961597442627,4.846696376800537
+124.45970916748047,132.43878173828125,4.757025241851807,4.816544055938721
+120.16146087646484,128.6233673095703,4.722264766693115,4.787564754486084
+116.1048812866211,125.08568572998047,4.688343524932861,4.759878635406494
+112.29780578613281,121.76028442382812,4.655397415161133,4.733134746551514
+108.70039367675781,118.6533432006836,4.623248100280762,4.707489013671875
+105.29356384277344,115.7660903930664,4.59188985824585,4.682991981506348
+102.08330535888672,113.1323471069336,4.5612921714782715,4.660089015960693
+99.07997131347656,110.66570281982422,4.531779766082764,4.638086795806885
+96.21380615234375,108.05768585205078,4.5028157234191895,4.61439847946167
+93.52869415283203,105.66268920898438,4.474865436553955,4.592393398284912
+90.93704986572266,103.50292205810547,4.447055339813232,4.571944713592529
